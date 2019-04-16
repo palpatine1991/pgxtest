@@ -1,0 +1,15 @@
+{
+  "uri": "sample.adj",
+  "format": "adj_list",
+  "vertex_props": [{
+    "name": "prop1",
+    "type": "int"
+  }],
+  "edge_props": [{
+    "name": "cost",
+    "type": "double"
+  }],
+  "separator": " ",
+  "loading": {},
+  "error_handling": {}
+}
